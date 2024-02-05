@@ -1,0 +1,7 @@
+name: DenoDeps
+on:
+  push:
+
+jobs:
+  denoweb:
+    uses: sgohlke/workflows/.github/workflows/deno.yml@main
