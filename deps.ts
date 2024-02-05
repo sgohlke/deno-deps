@@ -1,13 +1,4 @@
 export { 
-   assert,
-   assertArrayIncludes,
-   assertEquals,
-   assertStringIncludes,
-   fail
-} from 'https://deno.land/std@0.214.0/assert/mod.ts'
-
-/**
-export { 
    assert 
 } from 'https://deno.land/std@0.214.0/assert/assert.ts'
 
@@ -26,4 +17,3 @@ export {
 export { 
    fail 
 } from 'https://deno.land/std@0.214.0/assert/fail.ts'
- */
