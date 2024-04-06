@@ -1,15 +1,15 @@
-export { assert } from 'https://deno.land/std@0.219.0/assert/assert.ts'
+export { assert } from 'https://deno.land/std@0.221.0/assert/assert.ts'
 
 export {
    assertArrayIncludes,
-} from 'https://deno.land/std@0.219.0/assert/assert_array_includes.ts'
+} from 'https://deno.land/std@0.221.0/assert/assert_array_includes.ts'
 
 export {
    assertEquals,
-} from 'https://deno.land/std@0.219.0/assert/assert_equals.ts'
+} from 'https://deno.land/std@0.221.0/assert/assert_equals.ts'
 
 export {
    assertStringIncludes,
-} from 'https://deno.land/std@0.219.0/assert/assert_string_includes.ts'
+} from 'https://deno.land/std@0.221.0/assert/assert_string_includes.ts'
 
-export { fail } from 'https://deno.land/std@0.219.0/assert/fail.ts'
+export { fail } from 'https://deno.land/std@0.221.0/assert/fail.ts'
