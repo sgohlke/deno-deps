@@ -1,9 +1,9 @@
-export { assert } from 'std/assert/assert.ts'
+export { assert } from 'https://deno.land/std@0.224.0/assert/assert.ts'
 
-export { assertArrayIncludes } from 'std/assert/assert_array_includes.ts'
+export { assertArrayIncludes } from 'https://deno.land/std@0.224.0/assert/assert_array_includes.ts'
 
-export { assertEquals } from 'std/assert/assert_equals.ts'
+export { assertEquals } from 'https://deno.land/std@0.224.0/assert/assert_equals.ts'
 
-export { assertStringIncludes } from 'std/assert/assert_string_includes.ts'
+export { assertStringIncludes } from 'https://deno.land/std@0.224.0/assert/assert_string_includes.ts'
 
-export { fail } from 'std/assert/fail.ts'
+export { fail } from 'https://deno.land/std@0.224.0/assert/fail.ts'

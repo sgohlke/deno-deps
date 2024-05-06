@@ -1,7 +1,4 @@
 {
-   "imports": {
-      "std/": "https://deno.land/std@0.224.0/"
-   },
    "tasks": {
       "coverage": "deno test --allow-net --coverage=covresults && deno coverage covresults",
       "format": "deno fmt --options-indent-width=3 --options-single-quote --options-no-semicolons=true",
